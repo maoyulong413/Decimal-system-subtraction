@@ -1,0 +1,4 @@
+﻿  main_subtraction.c
+c:\users\小毛_白露\documents\github\decimal-system-subtraction\main_subtraction\main_subtraction.c(22): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+c:\users\小毛_白露\documents\github\decimal-system-subtraction\main_subtraction\main_subtraction.c(24): warning C4267: “=”: 从“size_t”转换到“char”，可能丢失数据
+  main_subtraction.vcxproj -> C:\Users\小毛_白露\Documents\GitHub\Decimal-system-subtraction\main_subtraction\Debug\main_subtraction.exe
